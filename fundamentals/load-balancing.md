@@ -24,7 +24,7 @@ Without a load balancer, a single server becomes a bottleneck and single point o
 
 # Basic Architecture
 
-![alt text](image.png)
+![alt text](static/image.png)
 
 ```mermaid
 graph TD

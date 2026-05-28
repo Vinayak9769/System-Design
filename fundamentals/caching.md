@@ -3,7 +3,7 @@
 Caching reduces latency and database load by storing frequently accessed data in faster storage.
 
 Example of a typical memcached API
-![alt text](image-1.png)
+![alt text](static/image-1.png)
 
 ---
 
